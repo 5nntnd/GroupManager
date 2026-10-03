@@ -4,6 +4,6 @@ This file provides guidance to Claude Code (claude.ai/code) when working with co
 
 ## Project status
 
-This repository is currently empty — it contains only a placeholder `README.md` with no source code, build configuration, or defined architecture yet. There are no commands to build, lint, or test.
+neuro-sandbox is a personal learning project: decoding mental states from public EEG datasets with Python (MNE, scikit-learn). The plan and background are in `reference/eeg-learning-plan.md`. There is no source code, build configuration, or defined architecture yet, so there are no commands to build, lint, or test.
 
 Update this file once real code, dependencies, and structure are added to the project.

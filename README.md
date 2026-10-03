@@ -1,5 +1,5 @@
-README.md
+# neuro-sandbox
 
-##GroupManager
+**Personal learning project. Nothing here is useful to anyone else.**
 
-generating GroupManager root dir non descriptive md file
+This is my scratch space for learning how to decode mental states from public EEG data. It has no finished code, no documentation for outsiders and no support. Please don't spend your time on it.
